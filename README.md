@@ -1,2 +1,2 @@
 # SQL_Population Analysis
-Here we wrote queries to solve some problems
+Here I analyzed data to find the population make up of the various cities
